@@ -1,0 +1,8 @@
+main: com.ETOILE123.Chat.Main
+version: 0.1
+name: ChatManager
+commands:
+    ChatDisable:
+        description: Disable Chat.
+    ChatClear:
+        description: Disable Chat.        
